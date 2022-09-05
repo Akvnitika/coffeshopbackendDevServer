@@ -1,0 +1,21 @@
+body{
+    caret-color: rgba(0, 0, 0, 0);
+    /* remove the blinking cursor from text */
+}
+main{
+    min-height: 80vh;
+    /* let main height be  80 view port height to create spacing between header and footer */
+}
+
+h3 {
+   padding: 1rem 0; 
+   /* padding on top and bottom */
+
+}
+.link {
+    text-decoration: none;
+}
+.rating span {
+    margin:0.1rem;
+}
+
