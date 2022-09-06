@@ -76,6 +76,7 @@ const Rating = ({ value, text, color }) => {
 // passing default prop
 Rating.defaultProps = {
   color: '#f8e825',
+  value: 0,
 }
 
 // prop types to define the type of props e.g. string, number. It will type check for the inputs

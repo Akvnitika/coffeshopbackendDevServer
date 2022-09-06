@@ -10,6 +10,8 @@ main{
 h3 {
    padding: 1rem 0; 
    /* padding on top and bottom */
+    /* white-space: normal;
+    word-wrap: break-word;  */
 
 }
 .link {
